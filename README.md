@@ -66,3 +66,16 @@ The user can choose to include digits and symbols for better security.
 - Loops and string manipulation  
 
 -------------------------
+
+## 🎮 Task 4 – Rock Paper Scissors Game
+
+### 📋 About
+A Python command-line game where the user plays Rock-Paper-Scissors against the computer.
+
+### ⚙️ Features
+- User vs Computer gameplay  
+- Randomized computer choice  
+- Winner decision logic  
+- Score tracking for multiple rounds
+
+-----------------------------
